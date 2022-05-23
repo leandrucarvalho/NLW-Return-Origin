@@ -14,6 +14,6 @@ Projeto criando para praticar as aulas do curso da Rocketseat utilizando as segu
 
 ## Demonstração
 
-- ["Link do projeto na web para acessar pelo navegador ou mobile"](https://leandrucarvalho.github.io/NLW-Return-Origin/#about)
+- ["Link do projeto na web para acessar pelo navegador ou mobile"](https://leandrucarvalho.github.io/NLW-Return-Origin/)
 
 ![homeDoctorCare](https://user-images.githubusercontent.com/56963289/169729266-45742809-cde4-4fd6-a5aa-43bb6aba26fb.png)
