@@ -287,13 +287,12 @@ body.menu-expanded button path {
 }
 
 /* ====== #HOME ====== */
-#home {
+section#home {
   padding-block: 0;
   padding-top: calc(4.1rem + var(--nav-heigth));
-  background-color: var(--brand-light);
 }
 
-#home::before {
+section#home::before {
   content: '';
   width: 100%;
   height: calc(76% + var(--nav-heigth));
@@ -310,7 +309,7 @@ body.menu-expanded button path {
   margin-inline: auto;
 }
 
-#home p {
+section#home p {
   font-size: 1.8rem;
   line-height: 150%;
   font-weight: 400;
@@ -319,7 +318,7 @@ body.menu-expanded button path {
   margin-bottom: 3.2rem;
 }
 
-#home img {
+section#home img {
   width: 26.4rem;
   display: block;
   margin-inline: auto;
