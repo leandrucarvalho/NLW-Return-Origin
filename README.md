@@ -8,7 +8,7 @@ Projeto criando para praticar as aulas do curso da Rocketseat utilizando as segu
 
 # Referência
 
- - ["Site da rocketseat"](https://www.rocketseat.com.br/)
+ - ["Site da rocketseat"](https://www.rocketseat.com.br/){:target="_blank"}
  - Resumo do curso: "Para você está no início da jornada, com menos de um ano de estudo, e quer construir os alicerces necessários para decolar em programação e acessar sua primeira vaga, essa é a missão certa para você. Utilizando HTML, CSS e JavaScript!"
  
 
